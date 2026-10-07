@@ -106,7 +106,7 @@ Reto-implementacion-de-internet/
 
 ## 📄 Documentación
 
-- 📘 [Cierre de ETAPA 1 del RETO (PDF)](docs/Cierre_de_ETAPA_1_del_RETO.pdf)
+- 📘 [Cierre de ETAPA 1 del RETO (PDF)](Cierre_de_ETAPA_1_del_RETO.pdf)
 
 ---
 
