@@ -101,13 +101,6 @@ Reto-implementacion-de-internet/
 ├── README.md
 └── Cierre_de_ETAPA_1_del_RETO.pdf
 ```
-
-> La estructura se irá ampliando conforme avance el proyecto (código del ESP32, configuración de Mosquitto, Grafana, etc.).
-
-## 📄 Documentación
-
-- 📘 [Cierre de ETAPA 1 del RETO (PDF)](Cierre_de_ETAPA_1_del_RETO.pdf)
-
 ---
 
 ## 👥 Equipo 9
