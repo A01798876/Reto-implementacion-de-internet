@@ -148,7 +148,7 @@ Para esta etapa se eligió WiFi por su facilidad de conexión y su compatibilida
 
 ## 🗄️ Diseño de la base de datos
 
-El diseño completo está en [`docs/Base_de_datos_del_RETO.pdf`](docs/Base_de_datos_del_RETO.pdf) (diagrama ER, modelo relacional, diccionario de datos y consultas). Resumen:
+El diseño completo está en [`docs/Base_de_datos_del_RETO.pdf`] (diagrama ER, modelo relacional, diccionario de datos y consultas). Resumen:
 
 ### Entidades
 
