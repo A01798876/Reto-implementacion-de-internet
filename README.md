@@ -308,16 +308,6 @@ Reto-implementacion-de-internet/
 
 > La estructura se irá ampliando conforme avance el proyecto (código del ESP32, configuración de Mosquitto y Grafana, etc.).
 
-## 📄 Documentación
-
-| Entrega | Contenido | Archivo |
-|---|---|---|
-| Etapa 1 | Variables, sensores, arquitectura por capas, tecnologías y diseño del prototipo | [Cierre de ETAPA 1](docs/Cierre_de_ETAPA_1_del_RETO.pdf) |
-| Base de datos | Diagrama ER, modelo relacional, diccionario de datos y consultas | [Diseño de la base de datos](docs/Base_de_datos_del_RETO.pdf) |
-| Etapa 2 | Montaje, pruebas de sensores, análisis de ruido, WiFi y HTTP, códigos utilizados | [Cierre de ETAPA 2](docs/Cierre_de_ETAPA_2_del_RETO.pdf) |
-
----
-
 ## 🚦 Estado del proyecto
 
 **Etapa 1**
